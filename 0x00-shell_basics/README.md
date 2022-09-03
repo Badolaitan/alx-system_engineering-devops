@@ -1,1 +1,0 @@
-my shell basic project
